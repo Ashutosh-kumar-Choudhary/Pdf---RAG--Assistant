@@ -1,0 +1,20 @@
+# Vector database built from your own documents (private, and rebuilt automatically)
+chroma_db/
+
+# Your PDFs (they can contain personal information)
+pdfs/
+*.pdf
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Secrets and editor files
+.env
+.vscode/
+
+.env
+.vscode/
+.idea/
